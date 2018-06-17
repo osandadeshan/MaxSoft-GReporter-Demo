@@ -1,3 +1,15 @@
+# How to use MaxSoft Email Client For Gauge library?
+
+    1) Clone this gauge project into your computer
+    2) Create your gauge tests (i.e: Gauge Documentation https://docs.gauge.org/latest/index.html)
+    3) Open "email.properties" file (<rootDir>\env\email\email.properties) from notepad
+	4) Change the properties and Save it
+	5) Open "chart.properties" file (<rootDir>\env\chart\piechart.properties) from notepad
+	4) Change the properties and Save it
+    4) Double click on "TestRunner.bat" which is in the root directory
+	
+	
+	
 --------------------------------------------------------------------------------
 
 
