@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.maxsoft.emailclient</groupId>
+    <groupId>com.maxsoft.emailclient.demo</groupId>
     <artifactId>MaxSoft-Email-Client-For-Gauge-Demo</artifactId>
     <version>v1.0.0</version>
 
@@ -25,6 +25,11 @@
             <groupId>org.knowm.xchart</groupId>
             <artifactId>xchart</artifactId>
             <version>3.5.2</version>
+        </dependency>
+        <dependency>
+            <groupId>org.jfree</groupId>
+            <artifactId>jfreechart</artifactId>
+            <version>1.0.19</version>
         </dependency>
         <dependency>
             <groupId>com.sun.mail</groupId>
@@ -82,7 +87,7 @@
                     </execution>
                 </executions>
                 <configuration>
-                    <mainClass>com.maxsoft.emailclient.EmailSender</mainClass>
+                    <mainClass>com.maxsoft.emailclient.demo.EmailSender</mainClass>
                     <classpathScope>test</classpathScope>
                 </configuration>
             </plugin>
