@@ -10,13 +10,13 @@
 package com.maxsoft.emailclient.demo;
 
 import com.maxsoft.emailclient.Email;
-import com.maxsoft.emailclient.JsonReader;
+import com.maxsoft.emailclient.JsonReportReader;
 
 
 public class EmailSender {
 
     public static void main(String[] args) {
-        Email.send(JsonReader.getExecutionResults());
+        Email.send(JsonReportReader.getExecutionResults());
     }
 
 

@@ -1,10 +1,10 @@
 {
 	"projectName": "MaxSoft Email Client For Gauge Demo",
-	"timestamp": "Jun 24, 2018 at 9:40pm",
+	"timestamp": "Jun 25, 2018 at 10:13pm",
 	"successRate": 50,
 	"environment": "default",
 	"tags": "",
-	"executionTime": 497,
+	"executionTime": 737,
 	"executionStatus": "fail",
 	"specResults": [
 		{
@@ -19,7 +19,7 @@
 					"tags": [
 						"single word"
 					],
-					"executionTime": 2,
+					"executionTime": 1,
 					"executionStatus": "pass",
 					"contexts": [
 						{
@@ -53,7 +53,7 @@
 								"stackTrace": "",
 								"screenshot": "",
 								"errorMessage": "",
-								"executionTime": 2,
+								"executionTime": 1,
 								"skippedReason": "",
 								"messages": [],
 								"errorType": "assertion"
@@ -68,7 +68,7 @@
 				{
 					"scenarioHeading": "Vowel counts in multiple word",
 					"tags": [],
-					"executionTime": 0,
+					"executionTime": 1,
 					"executionStatus": "pass",
 					"contexts": [
 						{
@@ -139,7 +139,7 @@
 								"stackTrace": "",
 								"screenshot": "",
 								"errorMessage": "",
-								"executionTime": 0,
+								"executionTime": 1,
 								"skippedReason": "",
 								"messages": [],
 								"errorType": "assertion"
@@ -164,7 +164,7 @@
 			"specHeading": "Example Vowels2 Specification",
 			"fileName": "C:\\Users\\UnimaOs\\IdeaProjects\\MaxSoft Email Client For Gauge Demo\\specs\\Example Vowels2.spec",
 			"tags": [],
-			"executionTime": 2,
+			"executionTime": 1,
 			"executionStatus": "fail",
 			"scenarios": [
 				{
@@ -172,7 +172,7 @@
 					"tags": [
 						"single word"
 					],
-					"executionTime": 2,
+					"executionTime": 1,
 					"executionStatus": "fail",
 					"contexts": [
 						{
@@ -206,7 +206,7 @@
 								"stackTrace": "org.testng.Assert.fail(Assert.java:94)\norg.testng.Assert.failNotEquals(Assert.java:494)\norg.testng.Assert.assertEquals(Assert.java:123)\norg.testng.Assert.assertEquals(Assert.java:370)\norg.testng.Assert.assertEquals(Assert.java:380)\nstepdefinitions.StepImplementation.verifyVowelsCountInWord(StepImplementation.java:25)\n",
 								"screenshot": "",
 								"errorMessage": "java.lang.AssertionError: expected [2] but found [3]",
-								"executionTime": 2,
+								"executionTime": 1,
 								"skippedReason": "",
 								"messages": [],
 								"errorType": "assertion"
