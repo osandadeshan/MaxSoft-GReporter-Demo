@@ -4,9 +4,11 @@
     2) Create your gauge tests (i.e: Gauge Documentation https://docs.gauge.org/latest/index.html)
     3) Open "email.properties" file (<rootDir>\env\email\email.properties) from notepad
 	4) Change the properties and Save it
-	5) Open "chart.properties" file (<rootDir>\env\chart\piechart.properties) from notepad
-	4) Change the properties and Save it
-    4) Double click on "TestRunner.bat" which is in the root directory
+	5) Open "piechart.properties" file (<rootDir>\env\chart\piechart.properties) from notepad
+	6) Change the properties and Save it
+	7) Open "barchart.properties" file (<rootDir>\env\chart\barchart.properties) from notepad
+	8) Change the properties and Save it
+    9) Double click on "TestRunner.bat" which is in the root directory
 	
 	
 	
