@@ -1,4 +1,4 @@
-# Setup Guide
+# MaxSoft Email Client For Gauge Demo - Setup Guide
 <br />
 
 ## Pre Requisites
