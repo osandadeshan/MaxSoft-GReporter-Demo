@@ -6,7 +6,7 @@
 
     <groupId>com.maxsoft.greporter.demo</groupId>
     <artifactId>MaxSoft-GReporter-Demo</artifactId>
-    <version>v1.0.0</version>
+    <version>v1.0.1</version>
 
     <dependencies>
         <dependency>
