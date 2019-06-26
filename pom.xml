@@ -6,7 +6,7 @@
 
     <groupId>com.maxsoft.greporter.demo</groupId>
     <artifactId>MaxSoft-GReporter-Demo</artifactId>
-    <version>v1.0.2</version>
+    <version>1.0.3</version>
 
     <repositories>
         <repository>
@@ -19,7 +19,7 @@
         <dependency>
             <groupId>com.github.osandadeshan</groupId>
             <artifactId>MaxSoft-GReporter</artifactId>
-            <version>v1.0.2</version>
+            <version>1.0.3</version>
         </dependency>
         <dependency>
             <groupId>com.thoughtworks.gauge</groupId>
