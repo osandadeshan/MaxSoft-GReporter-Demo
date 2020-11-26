@@ -6,7 +6,6 @@ import com.thoughtworks.gauge.TableRow;
 import org.testng.Assert;
 import java.util.HashSet;
 
-
 public class StepImplementation {
 
     private HashSet<Character> vowels;
@@ -44,6 +43,4 @@ public class StepImplementation {
         }
         return count;
     }
-
-
 }
