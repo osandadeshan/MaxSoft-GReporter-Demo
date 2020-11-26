@@ -120,4 +120,4 @@ MaxSoft GReporter is an automated solution for this issue. It acts as a Java plu
 <br />
 
 ## Copyright
-Copyright 2018 MaxSoft.
+Copyright 2020 MaxSoft.
