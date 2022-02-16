@@ -1,6 +1,6 @@
 # Example Vowels Specification 3
 
-Project Name : MaxSoft GReporter
+Project Name : MaxSoft GReporter Demo
 Developer    : Osanda Deshan
 Version      : 1.0.0
 Date         : 6/17/2018
@@ -14,16 +14,4 @@ Description  : This is an executable specification file which follows markdown s
 ## Vowel counts in single word
 tags: single word
 
-* The word "gauge" has "4" vowels.
-
-
-## Vowel counts in multiple word
-* Almost all words have vowels
-
-   |Word  |Vowel Count|
-   |------|-----------|
-   |Gauge |3          |
-   |Mingle|2          |
-   |Snap  |1          |
-   |GoCD  |1          |
-   |Rhythm|0          |
+* The word "gauge" has "3" vowels
