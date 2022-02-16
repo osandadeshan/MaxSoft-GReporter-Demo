@@ -1,6 +1,6 @@
 # Example Vowels Specification 2
 
-Project Name : MaxSoft GReporter
+Project Name : MaxSoft GReporter Demo
 Developer    : Osanda Deshan
 Version      : 1.0.0
 Date         : 6/17/2018
